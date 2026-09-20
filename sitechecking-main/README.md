@@ -1,4 +1,4 @@
-# TVU Books & Materials 📚
+# TVU Books Shop 📚
 
 > **Thiruvalluvar University Academic Textbook & Study Material Marketplace**
 > A lightweight, responsive web app for buying and selling university textbooks and study materials, built with **HTML5, Vanilla CSS, Vanilla JavaScript, Firebase (Auth + Firestore), Cloudinary, and EmailJS**.
@@ -233,4 +233,4 @@ New book uploads never need a code change or redeploy; everything is stored in F
 
 ---
 
-© 2026 TVU Books & Materials • Thiruvalluvar University
+© 2026 TVU Books Shop • Thiruvalluvar University
